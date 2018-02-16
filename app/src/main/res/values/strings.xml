@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">aplicacion oscar 2</string>
+
+    <string name="hello">hello world!</string>
+    <string name="ventana">activity_main2</string>
+    <string name="ventana3">activity_main3</string>
+</resources>
